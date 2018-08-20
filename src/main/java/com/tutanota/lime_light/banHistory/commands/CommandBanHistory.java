@@ -31,6 +31,7 @@ public class CommandBanHistory implements ICommand
         aliases.add("banHistory");
         aliases.add("muteHistory");
         aliases.add("punishmentHistory");
+        aliases.add("his");
         return aliases;
     }
 
