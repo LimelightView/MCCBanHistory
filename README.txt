@@ -8,3 +8,7 @@ Instructions:
         /banHistory Gracefell
         /muteHistory Gracefell
         /his Gracefell
+Downloading the Mod:
+    1. Download the repository as a zip.
+    2. Unzip the file.
+    3. Add the Jar file to your mods folder.
