@@ -1,7 +1,7 @@
-package com.tutanota.lime_light.main;
+package com.tutanota.lime_light.banHistory.main;
 
-import com.tutanota.lime_light.commands.CommandBanHistory;
-import com.tutanota.lime_light.proxy.CommonProxy;
+import com.tutanota.lime_light.banHistory.commands.CommandBanHistory;
+import com.tutanota.lime_light.banHistory.proxy.CommonProxy;
 import net.minecraftforge.client.ClientCommandHandler;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;

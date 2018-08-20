@@ -1,4 +1,4 @@
-package com.tutanota.lime_light.commands;
+package com.tutanota.lime_light.banHistory.commands;
 
 import net.minecraft.command.CommandException;
 import net.minecraft.command.ICommand;
