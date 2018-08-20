@@ -11,4 +11,4 @@ Instructions:
 Downloading the Mod:
     1. Download the repository as a zip.
     2. Unzip the file.
-    3. Add the Jar file to your mods folder.
+    3. Add the MCC_Ban_History-1.0.jar file to your mods folder.
